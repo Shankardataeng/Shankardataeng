@@ -1,8 +1,7 @@
 ## Hi there 👋 It's me Shankar
 
 Senior Data Processor @ Codemantra Pvt Ltd
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN0OWl6bG0xOTRwNW55Y3lrcm04d2l6aWx2aGd1ZGM4NzZxcXp4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)
-<img align="right" width="370" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN0OWl6bG0xOTRwNW55Y3lrcm04d2l6aWx2aGd1ZGM4NzZxcXp4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN0OWl6bG0xOTRwNW55Y3lrcm04d2l6aWx2aGd1ZGM4NzZxcXp4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" width="300" />
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
