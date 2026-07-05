@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Shankar
 
 ### Senior Data Processor @ Codemantra Pvt Ltd
-<img width="480" height="344" alt="giphy" src="https://github.com/user-attachments/assets/3ba3118c-e82d-487b-857e-ebfa960e7220" />
+<img width="100" height="100" alt="giphy" src="https://github.com/user-attachments/assets/044bd026-b1e5-43a8-8b01-80bc531b87d8" />
 
 - 🔭 **Portfolio:** Working on my brand new portfolio project! 🚀
 - 🌱 **Current Focus:** Advanced SQL, PostgreSQL (Window Functions, Medallion Architecture) & Data Engineering pipelines.
