@@ -1,4 +1,4 @@
-<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/eff3f3e4-c6ae-4abd-b4ef-78eef0ede916" />## Hi there 👋 It's me Shankar
+## Hi there 👋 It's me Shankar
 
 ### Senior Data Processor @ Codemantra Pvt Ltd
 <img width="200" height="200" align="right" alt="giphy" src="https://github.com/user-attachments/assets/044bd026-b1e5-43a8-8b01-80bc531b87d8" />
